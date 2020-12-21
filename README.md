@@ -1,6 +1,6 @@
 ## Setup
 
-Clone this repo and run `npm i` and then `npm start`
+Clone this repo and run `npm i` and then `npm start` 
 
 ## Project Instructions
 
